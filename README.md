@@ -67,8 +67,6 @@ Content-Type: application/json
 
 ```json
 {
-  "url": "https://raw.githubusercontent.com/ageitgey/face_recognition/master/examples/obama.jpg",
-  "num_faces": 1,
   "vectors": [
     [0.123, -0.456, 0.789, ...]   // 512-d vector (ArcFace)
   ]
@@ -97,7 +95,6 @@ Content-Type: application/json
 
 ```json
 {
-  "num_faces": 0,
   "vectors": []
 }
 ```
