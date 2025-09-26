@@ -46,7 +46,7 @@ pip install -r requirements.txt
 1. **Run the FastAPI server**
 
 ```bash
-uvicorn main:app --reload
+uvicorn app:app --reload
 ```
 
 2. **Test the API**
