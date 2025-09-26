@@ -19,7 +19,7 @@ A **FastAPI** application to extract **face embeddings (vectors)** from images u
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/face-vector-api.git
+git clone https://github.com/yourusername/vector-api.git
 cd face-vector-api
 ```
 
